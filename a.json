@@ -1,0 +1,758 @@
+{
+  "resources": {
+    "811d3c5974ce": {
+      "uuid": "811d3c5974ce",
+      "name": "",
+      "kind": "Motion.Timeline",
+      "tags": [{
+        "title": "p1",
+        "selector": "g#p1",
+        "start": 0,
+        "length": 6,
+        "kind": "TimelineTag",
+        "canvas": false,
+        "action": "渐现",
+        "action_uuid": "k9",
+        "params": {
+          "uuid": "58f24c7dbaa16befa3333856",
+          "duration": 0.1,
+          "containerId": "scene_54c66a94_03c3_4ace_8ee2_5ce93fc3dfcf"
+        },
+        "line": 0
+      }, {
+        "title": "p1",
+        "selector": "g#p1",
+        "start": 0,
+        "length": 6,
+        "kind": "TimelineTag",
+        "canvas": true,
+        "action": "组的显示",
+        "action_uuid": "nV8",
+        "params": {
+          "uuid": "ff36aed979d03baccb58bd40"
+        },
+        "line": 1
+      }, {
+        "title": "p1-1_P-ZRj-车-idle_1",
+        "selector": "image#p1-1_P-ZRj-车-idle_1",
+        "start": 3.75,
+        "length": 88.125,
+        "kind": "TimelineTag",
+        "canvas": true,
+        "action": " spine显示",
+        "action_uuid": "5A2",
+        "params": {
+          "ac": ["idle"],
+          "uuid": "6547d3fb895c2d8c2ab0f941"
+        },
+        "line": 2
+      }],
+      "audio": [],
+      "scene_done": false,
+      "extra": {},
+      "subtitle": []
+    },
+    "95fa1923c565": {
+      "uuid": "95fa1923c565",
+      "name": "",
+      "kind": "Motion.Timeline",
+      "tags": [{
+        "title": "p2",
+        "selector": "g#p2",
+        "start": 0,
+        "length": 6,
+        "kind": "TimelineTag",
+        "canvas": false,
+        "action": "渐现",
+        "action_uuid": "k9",
+        "params": {
+          "uuid": "9f4904a20d0d1a6c45bf2f84",
+          "duration": 0.1,
+          "containerId": "scene_54c66a94_03c3_4ace_8ee2_5ce93fc3dfcf"
+        },
+        "line": 0
+      }, {
+        "title": "p2",
+        "selector": "g#p2",
+        "start": 0,
+        "length": 6,
+        "kind": "TimelineTag",
+        "canvas": true,
+        "action": "组的显示",
+        "action_uuid": "nV8",
+        "params": {
+          "uuid": "68bc9e8ef512786dc3c67ec8"
+        },
+        "line": 1
+      }, {
+        "title": "p1",
+        "selector": "g#p1",
+        "start": 0,
+        "length": 6,
+        "kind": "TimelineTag",
+        "canvas": false,
+        "action": "渐隐",
+        "action_uuid": "j6",
+        "params": {
+          "uuid": "3a8a410c306b6e67bfaa5890",
+          "duration": 0.1,
+          "containerId": "scene_54c66a94_03c3_4ace_8ee2_5ce93fc3dfcf"
+        },
+        "line": 2
+      }, {
+        "title": "p1",
+        "selector": "g#p1",
+        "start": 0,
+        "length": 6,
+        "kind": "TimelineTag",
+        "canvas": true,
+        "action": "组的隐藏",
+        "action_uuid": "l52",
+        "params": {
+          "uuid": "962e54808fab0513d5231302"
+        },
+        "line": 3
+      }, {
+        "title": "p2-1_P-ZRj-车-idle_1",
+        "selector": "image#p2-1_P-ZRj-车-idle_1",
+        "start": 4.6875,
+        "length": 90,
+        "kind": "TimelineTag",
+        "canvas": true,
+        "action": " spine显示",
+        "action_uuid": "5A2",
+        "params": {
+          "ac": ["idle"],
+          "uuid": "7eed67a9cb705cfeca265158"
+        },
+        "line": 4
+      }],
+      "audio": [],
+      "scene_done": false,
+      "extra": {},
+      "subtitle": []
+    },
+    "08cf89b4ab8d": {
+      "uuid": "08cf89b4ab8d",
+      "name": "",
+      "kind": "Motion.Timeline",
+      "tags": [{
+        "title": "p3",
+        "selector": "g#p3",
+        "start": 0,
+        "length": 6,
+        "kind": "TimelineTag",
+        "canvas": false,
+        "action": "渐现",
+        "action_uuid": "k9",
+        "params": {
+          "uuid": "861b85f4d56349e4d39d5cbf",
+          "duration": 0.1,
+          "containerId": "scene_54c66a94_03c3_4ace_8ee2_5ce93fc3dfcf"
+        },
+        "line": 0
+      }, {
+        "title": "p3",
+        "selector": "g#p3",
+        "start": 0,
+        "length": 6,
+        "kind": "TimelineTag",
+        "canvas": true,
+        "action": "组的显示",
+        "action_uuid": "nV8",
+        "params": {
+          "uuid": "7774e5c7f8a9d9b81ada78c6"
+        },
+        "line": 1
+      }, {
+        "title": "p2",
+        "selector": "g#p2",
+        "start": 0,
+        "length": 6,
+        "kind": "TimelineTag",
+        "canvas": false,
+        "action": "渐隐",
+        "action_uuid": "j6",
+        "params": {
+          "uuid": "63d1014990aa1d1316ca34eb",
+          "duration": 0.1,
+          "containerId": "scene_54c66a94_03c3_4ace_8ee2_5ce93fc3dfcf"
+        },
+        "line": 2
+      }, {
+        "title": "p2",
+        "selector": "g#p2",
+        "start": 0,
+        "length": 6,
+        "kind": "TimelineTag",
+        "canvas": true,
+        "action": "组的隐藏",
+        "action_uuid": "l52",
+        "params": {
+          "uuid": "1b7c53b492045f08bc66d825"
+        },
+        "line": 3
+      }, {
+        "title": "p3-1_P-ZRj-车-idle_1",
+        "selector": "image#p3-1_P-ZRj-车-idle_1",
+        "start": 3.5999999999999996,
+        "length": 93.28125,
+        "kind": "TimelineTag",
+        "canvas": true,
+        "action": " spine显示",
+        "action_uuid": "5A2",
+        "params": {
+          "ac": ["idle"],
+          "ismove": "true",
+          "uuid": "bab02b65dfdee72708d20673"
+        },
+        "line": 4
+      }],
+      "audio": [],
+      "scene_done": false,
+      "extra": {},
+      "subtitle": []
+    },
+    "a3ae0220a51b": {
+      "uuid": "a3ae0220a51b",
+      "name": "",
+      "kind": "Motion.Timeline",
+      "tags": [{
+        "title": "p4",
+        "selector": "g#p4",
+        "start": 0,
+        "length": 6,
+        "kind": "TimelineTag",
+        "canvas": false,
+        "action": "渐现",
+        "action_uuid": "k9",
+        "params": {
+          "uuid": "08009c943f4e0b492e01adf6",
+          "duration": 0.1,
+          "containerId": "scene_54c66a94_03c3_4ace_8ee2_5ce93fc3dfcf"
+        },
+        "line": 0
+      }, {
+        "title": "p4",
+        "selector": "g#p4",
+        "start": 0,
+        "length": 6,
+        "kind": "TimelineTag",
+        "canvas": true,
+        "action": "组的显示",
+        "action_uuid": "nV8",
+        "params": {
+          "uuid": "dbb9a05f41f9c38feded0cf9"
+        },
+        "line": 1
+      }, {
+        "title": "p3",
+        "selector": "g#p3",
+        "start": 0,
+        "length": 6,
+        "kind": "TimelineTag",
+        "canvas": false,
+        "action": "渐隐",
+        "action_uuid": "j6",
+        "params": {
+          "uuid": "f046a087e6a5f649b6b2a103",
+          "duration": 0.1,
+          "containerId": "scene_54c66a94_03c3_4ace_8ee2_5ce93fc3dfcf"
+        },
+        "line": 2
+      }, {
+        "title": "p3",
+        "selector": "g#p3",
+        "start": 0,
+        "length": 6,
+        "kind": "TimelineTag",
+        "canvas": true,
+        "action": "组的隐藏",
+        "action_uuid": "l52",
+        "params": {
+          "uuid": "9ba093a8e6b3191748817238"
+        },
+        "line": 3
+      }, {
+        "title": "p4-1_P-ZRj-车-idle_1",
+        "selector": "image#p4-1_P-ZRj-车-idle_1",
+        "start": 2.8125,
+        "length": 90,
+        "kind": "TimelineTag",
+        "canvas": true,
+        "action": " spine显示",
+        "action_uuid": "5A2",
+        "params": {
+          "ac": ["idle"],
+          "uuid": "b856f4127f1964b00f50743d"
+        },
+        "line": 4
+      }],
+      "audio": [],
+      "scene_done": false,
+      "extra": {},
+      "subtitle": []
+    },
+    "0071c810e61b": {
+      "uuid": "0071c810e61b",
+      "name": "",
+      "kind": "Motion.Timeline",
+      "tags": [{
+        "title": "p5",
+        "selector": "g#p5",
+        "start": 0,
+        "length": 6,
+        "kind": "TimelineTag",
+        "canvas": false,
+        "action": "渐现",
+        "action_uuid": "k9",
+        "params": {
+          "uuid": "73b7d42e238173526d3ff024",
+          "duration": 0.1,
+          "containerId": "scene_54c66a94_03c3_4ace_8ee2_5ce93fc3dfcf"
+        },
+        "line": 0
+      }, {
+        "title": "p5",
+        "selector": "g#p5",
+        "start": 0,
+        "length": 6,
+        "kind": "TimelineTag",
+        "canvas": true,
+        "action": "组的显示",
+        "action_uuid": "nV8",
+        "params": {
+          "uuid": "c749912ed861f5cfda81a4fa"
+        },
+        "line": 1
+      }, {
+        "title": "p4",
+        "selector": "g#p4",
+        "start": 0,
+        "length": 6,
+        "kind": "TimelineTag",
+        "canvas": false,
+        "action": "渐隐",
+        "action_uuid": "j6",
+        "params": {
+          "uuid": "43ebbc631303d086d2ea989e",
+          "duration": 0.1,
+          "containerId": "scene_54c66a94_03c3_4ace_8ee2_5ce93fc3dfcf"
+        },
+        "line": 2
+      }, {
+        "title": "p4",
+        "selector": "g#p4",
+        "start": 0,
+        "length": 6,
+        "kind": "TimelineTag",
+        "canvas": true,
+        "action": "组的隐藏",
+        "action_uuid": "l52",
+        "params": {
+          "uuid": "b60a1adfb1ccc628975c190a"
+        },
+        "line": 3
+      }, {
+        "title": "p5-1_P-ZRj-车-idle_1",
+        "selector": "image#p5-1_P-ZRj-车-idle_1",
+        "start": 5.546250000000001,
+        "length": 96,
+        "kind": "TimelineTag",
+        "canvas": true,
+        "action": " spine显示",
+        "action_uuid": "5A2",
+        "params": {
+          "ac": ["idle"],
+          "uuid": "4529d3ccf5aa6090aed0cbf9"
+        },
+        "line": 4
+      }],
+      "audio": [],
+      "scene_done": false,
+      "extra": {},
+      "subtitle": []
+    },
+    "c2668644c94406be735c1194": {
+      "uuid": "c2668644c94406be735c1194",
+      "name": "zq1",
+      "kind": "Motion.Timeline",
+      "tags": [],
+      "audio": [],
+      "scene_done": false,
+      "extra": {},
+      "subtitle": []
+    },
+    "70a93aecc4ac2770f4dc65a1": {
+      "uuid": "70a93aecc4ac2770f4dc65a1",
+      "name": "zq2",
+      "kind": "Motion.Timeline",
+      "tags": [],
+      "audio": [],
+      "scene_done": false,
+      "extra": {},
+      "subtitle": []
+    },
+    "81e8e9112e3c68d9007401e1": {
+      "uuid": "81e8e9112e3c68d9007401e1",
+      "name": "zq3",
+      "kind": "Motion.Timeline",
+      "tags": [],
+      "audio": [],
+      "scene_done": false,
+      "extra": {},
+      "subtitle": []
+    },
+    "19b2d6e9334414b32183d6e4": {
+      "uuid": "19b2d6e9334414b32183d6e4",
+      "name": "zq4",
+      "kind": "Motion.Timeline",
+      "tags": [],
+      "audio": [],
+      "scene_done": false,
+      "extra": {},
+      "subtitle": []
+    },
+    "4656f0288fa22b89bbf89496": {
+      "uuid": "4656f0288fa22b89bbf89496",
+      "name": "zq5",
+      "kind": "Motion.Timeline",
+      "tags": [],
+      "audio": [],
+      "scene_done": false,
+      "extra": {},
+      "subtitle": []
+    },
+    "2f1eac52ba3179c3dafb297e": {
+      "uuid": "2f1eac52ba3179c3dafb297e",
+      "name": "zq22",
+      "kind": "Motion.Timeline",
+      "tags": [],
+      "audio": [],
+      "scene_done": false,
+      "extra": {},
+      "subtitle": []
+    },
+    "4c7a887215e889a1168bd1f8": {
+      "uuid": "4c7a887215e889a1168bd1f8",
+      "name": "zq32",
+      "kind": "Motion.Timeline",
+      "tags": [],
+      "audio": [],
+      "scene_done": false,
+      "extra": {},
+      "subtitle": []
+    },
+    "bcea36cb0447e77606ff6a83": {
+      "uuid": "bcea36cb0447e77606ff6a83",
+      "name": "zq33",
+      "kind": "Motion.Timeline",
+      "tags": [],
+      "audio": [],
+      "scene_done": false,
+      "extra": {},
+      "subtitle": []
+    },
+    "3d036deef926f7cb568e1d1e": {
+      "uuid": "3d036deef926f7cb568e1d1e",
+      "name": "zq42",
+      "kind": "Motion.Timeline",
+      "tags": [],
+      "audio": [],
+      "scene_done": false,
+      "extra": {},
+      "subtitle": []
+    },
+    "05ac027ae0249d011717e871": {
+      "uuid": "05ac027ae0249d011717e871",
+      "name": "2c",
+      "kind": "Motion.Timeline",
+      "tags": [],
+      "audio": [],
+      "scene_done": false,
+      "extra": {},
+      "subtitle": []
+    },
+    "ca5ba17cf334dde86c8d7325": {
+      "uuid": "ca5ba17cf334dde86c8d7325",
+      "name": "3c",
+      "kind": "Motion.Timeline",
+      "tags": [],
+      "audio": [],
+      "scene_done": false,
+      "extra": {},
+      "subtitle": []
+    },
+    "50df31198716f7291b7cdf4f": {
+      "uuid": "50df31198716f7291b7cdf4f",
+      "name": "4c",
+      "kind": "Motion.Timeline",
+      "tags": [],
+      "audio": [],
+      "scene_done": false,
+      "extra": {},
+      "subtitle": []
+    }
+  },
+  "step_timelines": ["811d3c5974ce", "95fa1923c565", "08cf89b4ab8d", "a3ae0220a51b", "0071c810e61b"],
+  "event_timelines": ["c2668644c94406be735c1194", "70a93aecc4ac2770f4dc65a1", "81e8e9112e3c68d9007401e1", "19b2d6e9334414b32183d6e4", "4656f0288fa22b89bbf89496", "2f1eac52ba3179c3dafb297e", "4c7a887215e889a1168bd1f8", "bcea36cb0447e77606ff6a83", "3d036deef926f7cb568e1d1e", "05ac027ae0249d011717e871", "ca5ba17cf334dde86c8d7325", "50df31198716f7291b7cdf4f"],
+  "events": {
+    "58f3df063968d7f9b4135fd1": {
+      "uuid": "58f3df063968d7f9b4135fd1",
+      "selectors": "g#p1-1_zq_1",
+      "params": {
+        "evt_is_answer": true,
+        "evt_answer_group": "1",
+        "evt_show_tips": false,
+        "evt_is_evt_scene_done": false,
+        "evt_timeline_autonext": false,
+        "pause_explain_audio": false,
+        "prevent_reaction": false,
+        "evt_drop_enable": false,
+        "evt_drop_selector": "g#p1-1_tozq_1",
+        "evt_drop_disable_rotate": false,
+        "evt_drop_end_animation": ["c2668644c94406be735c1194"],
+        "evt_drag_at_step": "0",
+        "evt_drop_not_back": false,
+        "evt_drop_autonext": true,
+        "evt_drop_play": false
+      }
+    },
+    "d71c45631a3771368ea78029": {
+      "uuid": "d71c45631a3771368ea78029",
+      "selectors": "g#p2-1_zq1_1",
+      "params": {
+        "evt_is_answer": true,
+        "evt_answer_group": "2",
+        "evt_show_tips": false,
+        "evt_is_evt_scene_done": false,
+        "evt_timeline_autonext": false,
+        "pause_explain_audio": false,
+        "prevent_reaction": false,
+        "evt_drop_enable": false,
+        "evt_drop_selector": "g#p2-1_tozq1_1",
+        "evt_drop_disable_rotate": false,
+        "evt_drop_group": "2",
+        "evt_drop_end_animation": ["70a93aecc4ac2770f4dc65a1"],
+        "evt_drag_at_step": "0",
+        "evt_drop_not_back": false,
+        "evt_drop_autonext": false,
+        "evt_drop_play": false
+      }
+    },
+    "drop_group#2": {
+      "uuid": "drop_group#2",
+      "selectors": "drop_group#2",
+      "params": {
+        "evt_is_answer": false,
+        "evt_show_tips": false,
+        "evt_is_evt_scene_done": false,
+        "evt_timeline_event": ["05ac027ae0249d011717e871"],
+        "evt_timeline_autonext": true,
+        "pause_explain_audio": false,
+        "prevent_reaction": false,
+        "evt_drop_enable": false,
+        "evt_drop_disable_rotate": false,
+        "evt_drag_at_step": "0",
+        "evt_drop_not_back": false,
+        "evt_drop_autonext": false,
+        "evt_drop_play": false
+      }
+    },
+    "f9b33853292aa1cdab3f36e1": {
+      "uuid": "f9b33853292aa1cdab3f36e1",
+      "selectors": "g#p2-1_zq2_1",
+      "params": {
+        "evt_is_answer": true,
+        "evt_answer_group": "2",
+        "evt_show_tips": false,
+        "evt_is_evt_scene_done": false,
+        "evt_timeline_autonext": false,
+        "pause_explain_audio": false,
+        "prevent_reaction": false,
+        "evt_drop_enable": false,
+        "evt_drop_selector": "g#p2-1_tozq2_1",
+        "evt_drop_disable_rotate": false,
+        "evt_drop_group": "2",
+        "evt_drop_end_animation": ["2f1eac52ba3179c3dafb297e"],
+        "evt_drag_at_step": "0",
+        "evt_drop_not_back": false,
+        "evt_drop_autonext": false,
+        "evt_drop_play": false
+      }
+    },
+    "4d99068070d0018da2aa7363": {
+      "uuid": "4d99068070d0018da2aa7363",
+      "selectors": "g#p3-1_zq1_1",
+      "params": {
+        "evt_is_answer": true,
+        "evt_answer_group": "3",
+        "evt_show_tips": false,
+        "evt_is_evt_scene_done": false,
+        "evt_timeline_autonext": false,
+        "pause_explain_audio": false,
+        "prevent_reaction": false,
+        "evt_drop_enable": false,
+        "evt_drop_selector": "g#p3-1_tozq1_1",
+        "evt_drop_disable_rotate": false,
+        "evt_drop_group": "3",
+        "evt_drop_end_animation": ["81e8e9112e3c68d9007401e1"],
+        "evt_drag_at_step": "0",
+        "evt_drop_not_back": false,
+        "evt_drop_autonext": false,
+        "evt_drop_play": false
+      }
+    },
+    "drop_group#3": {
+      "uuid": "drop_group#3",
+      "selectors": "drop_group#3",
+      "params": {
+        "evt_is_answer": false,
+        "evt_show_tips": false,
+        "evt_is_evt_scene_done": false,
+        "evt_timeline_event": ["ca5ba17cf334dde86c8d7325"],
+        "evt_timeline_autonext": true,
+        "pause_explain_audio": false,
+        "prevent_reaction": false,
+        "evt_drop_enable": false,
+        "evt_drop_disable_rotate": false,
+        "evt_drag_at_step": "0",
+        "evt_drop_not_back": false,
+        "evt_drop_autonext": false,
+        "evt_drop_play": false
+      }
+    },
+    "5392574161d25aedc0c5496d": {
+      "uuid": "5392574161d25aedc0c5496d",
+      "selectors": "g#p3-1_zq2_1",
+      "params": {
+        "evt_is_answer": true,
+        "evt_answer_group": "3",
+        "evt_show_tips": false,
+        "evt_is_evt_scene_done": false,
+        "evt_timeline_autonext": false,
+        "pause_explain_audio": false,
+        "prevent_reaction": false,
+        "evt_drop_enable": false,
+        "evt_drop_selector": "g#p3-1_tozq2_1",
+        "evt_drop_disable_rotate": false,
+        "evt_drop_group": "3",
+        "evt_drop_end_animation": ["4c7a887215e889a1168bd1f8"],
+        "evt_drag_at_step": "0",
+        "evt_drop_not_back": false,
+        "evt_drop_autonext": false,
+        "evt_drop_play": false
+      }
+    },
+    "a27221c40988193f57b6a83e": {
+      "uuid": "a27221c40988193f57b6a83e",
+      "selectors": "g#p3-1_zq3_1",
+      "params": {
+        "evt_is_answer": true,
+        "evt_answer_group": "3",
+        "evt_show_tips": false,
+        "evt_is_evt_scene_done": false,
+        "evt_timeline_autonext": false,
+        "pause_explain_audio": false,
+        "prevent_reaction": false,
+        "evt_drop_enable": false,
+        "evt_drop_selector": "g#p3-1_tozq3_1",
+        "evt_drop_disable_rotate": false,
+        "evt_drop_group": "3",
+        "evt_drop_end_animation": ["bcea36cb0447e77606ff6a83"],
+        "evt_drag_at_step": "0",
+        "evt_drop_not_back": false,
+        "evt_drop_autonext": false,
+        "evt_drop_play": false
+      }
+    },
+    "8a383c0d49dfe67f4dee4fa8": {
+      "uuid": "8a383c0d49dfe67f4dee4fa8",
+      "selectors": "g#p4-1_zq1_1",
+      "params": {
+        "evt_is_answer": true,
+        "evt_answer_group": "4",
+        "evt_show_tips": false,
+        "evt_is_evt_scene_done": false,
+        "evt_timeline_autonext": false,
+        "pause_explain_audio": false,
+        "prevent_reaction": false,
+        "evt_drop_enable": false,
+        "evt_drop_selector": "g#p4-1_tozq1_1",
+        "evt_drop_disable_rotate": false,
+        "evt_drop_group": "4",
+        "evt_drop_end_animation": ["19b2d6e9334414b32183d6e4"],
+        "evt_drag_at_step": "0",
+        "evt_drop_not_back": false,
+        "evt_drop_autonext": false,
+        "evt_drop_play": false
+      }
+    },
+    "drop_group#4": {
+      "uuid": "drop_group#4",
+      "selectors": "drop_group#4",
+      "params": {
+        "evt_is_answer": false,
+        "evt_show_tips": false,
+        "evt_is_evt_scene_done": false,
+        "evt_timeline_event": ["50df31198716f7291b7cdf4f"],
+        "evt_timeline_autonext": true,
+        "pause_explain_audio": false,
+        "prevent_reaction": false,
+        "evt_drop_enable": false,
+        "evt_drop_disable_rotate": false,
+        "evt_drag_at_step": "0",
+        "evt_drop_not_back": false,
+        "evt_drop_autonext": false,
+        "evt_drop_play": false
+      }
+    },
+    "3ac212d538a1e9a66f3242e2": {
+      "uuid": "3ac212d538a1e9a66f3242e2",
+      "selectors": "g#p4-1_zq2_1",
+      "params": {
+        "evt_is_answer": true,
+        "evt_answer_group": "4",
+        "evt_show_tips": false,
+        "evt_is_evt_scene_done": false,
+        "evt_timeline_autonext": false,
+        "pause_explain_audio": false,
+        "prevent_reaction": false,
+        "evt_drop_enable": false,
+        "evt_drop_selector": "g#p4-1_tozq2_1",
+        "evt_drop_disable_rotate": false,
+        "evt_drop_group": "4",
+        "evt_drop_end_animation": ["3d036deef926f7cb568e1d1e"],
+        "evt_drag_at_step": "0",
+        "evt_drop_not_back": false,
+        "evt_drop_autonext": false,
+        "evt_drop_play": false
+      }
+    },
+    "79ac8864a9b168942ed375a6": {
+      "uuid": "79ac8864a9b168942ed375a6",
+      "selectors": "g#p5-1_zq_1",
+      "params": {
+        "evt_is_answer": true,
+        "evt_answer_group": "5",
+        "evt_show_tips": false,
+        "evt_is_evt_scene_done": false,
+        "evt_timeline_autonext": false,
+        "pause_explain_audio": false,
+        "prevent_reaction": false,
+        "evt_drop_enable": false,
+        "evt_drop_selector": "g#p5-1_tozq_1",
+        "evt_drop_disable_rotate": false,
+        "evt_drop_end_animation": ["4656f0288fa22b89bbf89496"],
+        "evt_drop_not_back": false,
+        "evt_drop_autonext": true,
+        "evt_drop_play": false
+      }
+    }
+  },
+  "editorData": {
+    "pageTimelines": [
+      ["811d3c5974ce", "95fa1923c565", "08cf89b4ab8d", "a3ae0220a51b", "0071c810e61b"]
+    ]
+  }
+}
